@@ -1,0 +1,24 @@
+input: ./
+output: .retype
+url: https://linkswiki.pages.dev/
+
+branding:
+  logo: /static/asset/logo.png
+  logoDark: /static/asset/logo.png
+  title: Links Wiki
+
+favicon: /static/asset/favicon.ico
+
+meta:
+  title: " - Links Wiki by .ziph"
+
+links:
+
+  - text: Discord
+    link: https://discord.com/users/463472776779399169
+    icon: /static/icon/discord.svg
+    target: blank
+
+footer:
+
+copyright: ""
