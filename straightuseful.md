@@ -1,5 +1,5 @@
 ---
-label: bookmark
+label: Straight Useful
 layout: page
 order: 100
 ---
