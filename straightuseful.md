@@ -8,12 +8,12 @@ order: 100
 
 ## Tempmail
 This is great for websites you don't plan on staying for.
-===More info on Tempmail
-![An image of Tempmail's website](/static/Tempmail1.png)
+==- Info on Tempmail
+![An image of Tempmail's website](/static/asset/Tempmail1.png)
 
 Tempmail is a website or app for Android/iOS. It allows users to have a temporary e-mail for sites they don't fully trust and not receive spam in your main e-mail.
 
-![Showing the QR code functionality](/static/Tempmail2.png)
+![Showing the QR code functionality](/static/asset/Tempmail2.png)
 
 It also allows you to move the session to a phone or share it with someone less tech savvy than you.
 ===
@@ -21,10 +21,10 @@ It also allows you to move the session to a phone or share it with someone less 
 
 ## Ninite
 Lets you easily setup the most recent version of the programs you use.
-===More info on Ninite
-![An image of Ninite's website](/static/Ninite1.png)
+==- Info on Ninite
+![An image of Ninite's website](/static/asset/Ninite1.png)
 Ninite stay's up-to-date because at launch it fetches the latest version for you. Which is great if you are lazy like me and don't want to go to the respective websites to download them.
-![Ninite's Pro Version homepage](/static/Ninite2.png)
+![Ninite's Pro Version homepage](/static/asset/Ninite2.png)
 Ninite even has a Pro Version of their software which is great if you are a System Admin
 ===
 [!ref icon="bookmark-fill" text="Ninite"](https://ninite.com/)
