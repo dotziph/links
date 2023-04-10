@@ -5,15 +5,38 @@ order: 100
 ---
 # These links are Straight Useful
 
-Tempmail is great for websites you don't plan on staying for.
+## Tempmail
+This is great for websites you don't plan on staying for.
+[!ref icon="bookmark-fill" text="Temp-Mail"](https://temp-mail.org/)
 
-[!ref icon="bookmark-fill" text="Temporary Email"](https://temp-mail.org/)
-[!ref icon="bookmark-fill" text="Multi Program Updater"](https://ninite.com/)
-[!ref icon="bookmark-fill" text="Vanilla Tweaks Texture Pack"](https://vanillatweaks.net/)
-[!ref icon="bookmark-fill" text="Discord Video Compressor"](https://8mb.video/)
+## Ninite
+Lets you easily setup the most recent version of the programs you use.
+[!ref icon="bookmark-fill" text="Ninite"](https://ninite.com/)
+
+## 8mbvideo
+Compresses your video to fit discords upload restrictions.
+[!ref icon="bookmark-fill" text="8mbvideo"](https://8mb.video/)
+
+## Discord Timestamps
+An easy tool to make timestamps for Discord. 
 [!ref icon="bookmark-fill" text="Discord Timestamp"](https://r.3v.fi/discord-timestamps/)
-[!ref icon="bookmark-fill" text="Opensource Office Suite"](https://www.libreoffice.org/)
-[!ref icon="bookmark-fill" text="Free Stock Photos"](https://unsplash.com/)
+
+## LibreOffice
+Open source office suite for most platforms.
+[!ref icon="bookmark-fill" text="LibreOffice"](https://www.libreoffice.org/)
+
+## Unsplash
+Free stock photos for download.
+[!ref icon="bookmark-fill" text="Unsplash"](https://unsplash.com/)
+
+## Amazon Outlet
+Stuff you can find on amazon at huge discount.
 [!ref icon="bookmark-fill" text="Amazon Overstock"](https://www.amazon.com/outlet)
-[!ref icon="bookmark-fill" text="Movie/TV Show Tracker"](https://www.justwatch.com/)
-[!ref icon="bookmark-fill" text="Recipe Finder"](https://myfridgefood.com/)
+
+## JustWatch
+Movie and TV Show tracker that give's you recommendations and notifies you if new episodes come out or movies come out.
+[!ref icon="bookmark-fill" text="JustWatch"](https://www.justwatch.com/)
+
+## MyFridgeFood
+Give's you recipes from things you have in your fridge. Great for those with an "empty fridge". 
+[!ref icon="bookmark-fill" text="MyFridgeFood"](https://myfridgefood.com/)
