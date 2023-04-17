@@ -15,7 +15,11 @@ Tempmail is a website or app for Android/iOS. It allows users to have a temporar
 
 ![Showing the QR code functionality](/static/asset/Tempmail2.png)
 
-It also allows you to move the session to a phone or share it with someone less tech savvy than you.
+It also allows you to move the session to a phone or share it with 
+someone less tech savvy than you. 
+
+
+[Alternative 1 (internxt)](https://internxt.com/temporary-email), [Alternative 2 (maildax)](https://maildax.com/), [Alternative 3 (inboxkitten)](https://inboxkitten.com/).
 ===
 [!ref icon="bookmark-fill" text="Temp-Mail"](https://temp-mail.org/)
 
