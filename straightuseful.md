@@ -19,7 +19,7 @@ It also allows you to move the session to a phone or share it with
 someone less tech savvy than you. 
 
 
-[Alternative 1 (internxt)](https://internxt.com/temporary-email), [Alternative 2 (maildax)](https://maildax.com/), [Alternative 3 (inboxkitten)](https://inboxkitten.com/).
+[Alternatives](https://fmhy.pages.dev/storage/#temp-email-sites)
 ===
 [!ref icon="bookmark-fill" text="Temp-Mail"](https://temp-mail.org/)
 
@@ -39,7 +39,7 @@ Compresses your video to fit discords upload restrictions.
 
 ## Discord Timestamps
 An easy tool to make timestamps for Discord. 
-[!ref icon="bookmark-fill" text="Discord Timestamp"](https://r.3v.fi/discord-timestamps/)
+[!ref icon="bookmark-fill" text="Discord Timestamp"](https://discordtimestamp.com/)
 
 ## LibreOffice
 Open source office suite for most platforms.
